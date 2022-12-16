@@ -1,10 +1,10 @@
-#Adding the .dic file to your Microsoft Word, PowerPoint and Outlook
+# Adding the .dic file to your Microsoft Word, PowerPoint and Outlook
 
 
-#Microsoft Word
+## Microsoft Word
 
-#WINDOWS
-1. Unzip the downloaded zip file and copy the file named ‘reclaimyourname.dic’
+### WINDOWS
+1. Unzip the downloaded zip file and copy the file named ‘AfricanNames.dic’
 2. Paste this file into a memorable folder on your desktop or in your documents
 3. Open Microsoft Word
 4. Go to File > Options > Proofing
@@ -16,7 +16,7 @@
 10. Select ‘OK’ to complete
 11. Quit and then reopen Word to ensure the new .dic file activates
 
-MAC OS
+### MAC OS
 1. Unzip the downloaded zip file and copy the file named ‘reclaimyourname.dic’
 2. Paste this file into a memorable folder on your desktop or in your documents
 3. Open Microsoft Word
@@ -34,22 +34,19 @@ MAC OS
 
 —
 
-Microsoft PowerPoint
+## Microsoft PowerPoint
 
 
-MAC OS & WINDOWS
+### MAC OS & WINDOWS
 Follow the instructions for Microsoft Word. Once installed via Word, quit and then reopen PowerPoint. The custom dictionary will now be active in PowerPoint. 
 
 —
 
-Microsoft Outlook
+## Microsoft Outlook
 
 
-MAC OS & WINDOWS
+### MAC OS & WINDOWS
 Follow the instructions for Microsoft Word. Once installed via Word, quit and then reopen Outlook. The custom dictionary will now be active in Outlook. 
 
 
 
-—
-
-After installing, if the name you type is still underlined, it means it is not included in this .dic version. Don't worry, if you send it to me through my Twitter, I'll make sure to include it in the next update.
