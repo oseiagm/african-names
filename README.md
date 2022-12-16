@@ -1,7 +1,5 @@
-# Adding the .dic file to your Microsoft Word, PowerPoint and Outlook
+# Adding the .dic file to your word processing software
 
-
-## Microsoft Word
 
 ### WINDOWS
 1. Unzip the downloaded zip file and copy the file named ‘AfricanNames.dic’
@@ -17,7 +15,7 @@
 11. Quit and then reopen Word to ensure the new .dic file activates
 
 ### MAC OS
-1. Unzip the downloaded zip file and copy the file named ‘reclaimyourname.dic’
+1. Unzip the downloaded zip file and copy the file named ‘AfricanNames.dic’
 2. Paste this file into a memorable folder on your desktop or in your documents
 3. Open Microsoft Word
 4. Go to Word > Preferences
@@ -33,20 +31,3 @@
 
 
 —
-
-## Microsoft PowerPoint
-
-
-### MAC OS & WINDOWS
-Follow the instructions for Microsoft Word. Once installed via Word, quit and then reopen PowerPoint. The custom dictionary will now be active in PowerPoint. 
-
-—
-
-## Microsoft Outlook
-
-
-### MAC OS & WINDOWS
-Follow the instructions for Microsoft Word. Once installed via Word, quit and then reopen Outlook. The custom dictionary will now be active in Outlook. 
-
-
-
